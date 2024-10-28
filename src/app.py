@@ -83,4 +83,5 @@ plt.title('Relationship between Home Runs and RBI')
 plt.xlabel('Home Runs')
 plt.ylabel('RBI')
 plt.tight_layout()
-plt.show()
+plt.savefig("Figures.jpeg")
+
